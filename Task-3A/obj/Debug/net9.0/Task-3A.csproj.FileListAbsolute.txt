@@ -1,0 +1,14 @@
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\bin\Debug\net9.0\Task-3A.exe
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\bin\Debug\net9.0\Task-3A.deps.json
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\bin\Debug\net9.0\Task-3A.runtimeconfig.json
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\bin\Debug\net9.0\Task-3A.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\bin\Debug\net9.0\Task-3A.pdb
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.AssemblyInfoInputs.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.AssemblyInfo.cs
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.csproj.CoreCompileInputs.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\refint\Task-3A.dll
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.pdb
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\Task-3A.genruntimeconfig.cache
+C:\Users\saksh\OneDrive\Documents\Application Development\Workshop-5\Task-3A\obj\Debug\net9.0\ref\Task-3A.dll
